@@ -48,14 +48,14 @@
 
 ### 🎯 Activity & Contributions
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Hissachi/Hissachi/output/snake.svg" />
+</div>
+
 <br/>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hissachi&theme=github_dark" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Hissachi/Hissachi/output/snake.svg" />
 </div>
 
 <br/>
