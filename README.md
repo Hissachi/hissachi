@@ -46,33 +46,6 @@
 
 ---
 
-### 🎯 Activity & Contributions
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Hissachi/Hissachi/output/snake.svg" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hissachi&theme=github_dark" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hissachi&theme=github_dark" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hissachi&theme=github_dark" width="45%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hissachi&theme=react-dark&bg_color=0d1117&color=0891b2&line=22c55e&point=ffffff&area=true&hide_border=true" />
-</div>
-
----
-
 ### 🛠️ Tech Stack
 
 <div align="center">
@@ -87,9 +60,6 @@
 </a>
 <a href="https://reactjs.org/" target="_blank">
   <img src="https://skillicons.dev/icons?i=react" />
-</a>
-<a href="https://nextjs.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=nextjs" />
 </a>
 <a href="https://astro.build/" target="_blank">
   <img src="https://skillicons.dev/icons?i=astro" />
@@ -158,6 +128,33 @@
   <img src="https://skillicons.dev/icons?i=arch" />
 </a>
 
+</div>
+
+---
+
+### 🎯 Activity & Contributions
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Hissachi/Hissachi/output/snake.svg" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hissachi&theme=github_dark" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hissachi&theme=github_dark" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hissachi&theme=github_dark" width="45%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hissachi&theme=react-dark&bg_color=0d1117&color=0891b2&line=22c55e&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ---
